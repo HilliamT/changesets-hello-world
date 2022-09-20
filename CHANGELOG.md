@@ -1,5 +1,13 @@
 # changesets-hello-world
 
+## 1.0.0
+
+### Major Changes
+
+- major release!
+
+  We have added this breaking change.
+
 ## 0.2.0
 
 ### Minor Changes
